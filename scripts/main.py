@@ -18,14 +18,14 @@ bot.start(bot_token=bot_token)
 # Bot PM user_id = 1806488135 PeerUser
 # TAF Club PM chat_id = 487366831 PeerChat
 # =========== LOGGING SETUP
-file = str(datetime.datetime.now().date()) + ".log"
+file = "log/" + str(datetime.datetime.now().date()) + ".log"
 logging.basicConfig(filename=file, filemode='a', format='%(message)s', level=logging.INFO)
 logging.info("ONLY INFO LEVEL")
 # =========== EXERCISE DATABASE SETUP
-ExerciseDatabase = exercise.ExerciseDatabase('exercise.json')
+ExerciseDatabase = exercise.ExerciseDatabase('scripts/exercise.json')
 WeeklyChallenge = exercise.Challenge()
 # =========== QUOTE DATABASE SETUP
-QuoteGenerator = quote.QuoteDatabase('quote.json')
+QuoteGenerator = quote.QuoteDatabase('scripts/quote.json')
 past_day = datetime.date.today()
 logging.info("Starting Day - " + str(past_day))
 DailyQuoteSent = False
