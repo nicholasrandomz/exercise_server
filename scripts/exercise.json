@@ -1,0 +1,700 @@
+{
+    "date_created" : "2021-05-08",
+    "exercise_list": [
+      {
+        "name": "Supine Pelvic Tilts",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/7/supine-pelvic-tilts/"
+      },
+      {
+        "name": "Bird-dog",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/14/bird-dog/"
+      },
+      {
+        "name": "Cobra Exercise",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/16/cobra/"
+      },
+      {
+        "name": "Front Plank",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/32/front-plank/"
+      },
+      {
+        "name": "Glute Bridge Exercise",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/49/glute-bridge/"
+      },
+      {
+        "name": "Crunch",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/52/crunch/"
+      },
+      {
+        "name": "Reverse Ab Crunch",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/76/reverse-crunch/"
+      },
+      {
+        "name": "Forward Lunge",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/94/forward-lunge/"
+      },
+      {
+        "name": "Side Plank - modified",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/100/side-plank-modified/"
+      },
+      {
+        "name": "Side Plank with Straight Leg",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/101/side-plank-with-straight-leg/"
+      },
+      {
+        "name": "Dirty Dog",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/109/dirty-dog/"
+      },
+      {
+        "name": "Hip Rotations (Push-up Position)",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/110/hip-rotations-push-up-position/"
+      },
+      {
+        "name": "Single Leg Stand",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/112/single-leg-stand/"
+      },
+      {
+        "name": "Supine Hollowing with Lower Extremity Movements",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/121/supine-hollowing-with-lower-extremity-movements/"
+      },
+      {
+        "name": "Supine Rotator Cuff",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/122/supine-rotator-cuff/"
+      },
+      {
+        "name": "Supine Snow Angel (Wipers) Exercise",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/124/supine-snow-angel-wipers-exercise/"
+      },
+      {
+        "name": "Bodyweight Squat",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/135/bodyweight-squat/"
+      },
+      {
+        "name": "Lunge with Elbow Instep",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/140/lunge-with-elbow-instep/"
+      },
+      {
+        "name": "Supine Dead Bug",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/147/supine-dead-bug/"
+      },
+      {
+        "name": "Standing Gate Openers (Frankensteins)",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/201/standing-gate-openers-frankensteins/"
+      },
+      {
+        "name": "Lateral Over Unders",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/206/lateral-over-unders/"
+      },
+      {
+        "name": "Seated Side-Straddle Stretch",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/212/seated-side-straddle-stretch/"
+      },
+      {
+        "name": "Seated Straddle with Side Reaches",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/215/seated-straddle-with-side-reaches/"
+      },
+      {
+        "name": "Childs Pose",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/227/childs-pose/"
+      },
+      {
+        "name": "Supine Spinal Twist with Rib Grab and Progressions",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/229/supine-spinal-twist-with-rib-grab-and-progressions/"
+      },
+      {
+        "name": "Supine Reverse Marches",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/238/supine-reverse-marches/"
+      },
+      {
+        "name": "Supine Bicycle Crunches",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/241/supine-bicycle-crunches/"
+      },
+      {
+        "name": "V-ups",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/242/v-ups/"
+      },
+      {
+        "name": "Vertical Toe Touches",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/243/vertical-toe-touches/"
+      },
+      {
+        "name": "Upward Facing Dog",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/244/upward-facing-dog/"
+      },
+      {
+        "name": "Partner Assisted Bodyweight Squats",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/265/partner-assisted-bodyweight-squats/"
+      },
+      {
+        "name": "Quadruped Bent-knee Hip Extensions",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/270/quadruped-bent-knee-hip-extensions/"
+      },
+      {
+        "name": "Plank-ups",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/320/plank-ups/"
+      },
+      {
+        "name": "Single Arm Plank",
+        "type": "Abs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/321/single-arm-plank/"
+      },
+      {
+        "name": "Bent Knee Push-up",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/13/bent-knee-push-up/"
+      },
+      {
+        "name": "Downward-facing Dog",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/18/downward-facing-dog/"
+      },
+      {
+        "name": "Push-up",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/41/push-up/"
+      },
+      {
+        "name": "Overhead Triceps Stretch",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/174/overhead-triceps-stretch/"
+      },
+      {
+        "name": "Standing Shoulder Extension",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/199/standing-shoulder-extension/"
+      },
+      {
+        "name": "Seated Bent-Knee Biceps Stretch",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/208/seated-bent-knee-biceps-stretch/"
+      },
+      {
+        "name": "Spider Walks",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/247/spider-walks/"
+      },
+      {
+        "name": "Plank-ups",
+        "type": "Arms",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/320/plank-ups/"
+      },
+      {
+        "name": "Supermans",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/9/supermans/"
+      },
+      {
+        "name": "Bird-dog",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/14/bird-dog/"
+      },
+      {
+        "name": "Downward-facing Dog",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/18/downward-facing-dog/"
+      },
+      {
+        "name": "Side Lying Hip Abduction",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/38/side-lying-hip-abduction/"
+      },
+      {
+        "name": "Side Lying Hip Adduction",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/39/side-lying-hip-adduction/"
+      },
+      {
+        "name": "Glute Bridge Exercise",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/49/glute-bridge/"
+      },
+      {
+        "name": "Side Lunge",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/50/side-lunge/"
+      },
+      {
+        "name": "Contralateral Limb Raises",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/53/contralateral-limb-raises/"
+      },
+      {
+        "name": "Forward Lunge",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/94/forward-lunge/"
+      },
+      {
+        "name": "Side Plank - modified",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/100/side-plank-modified/"
+      },
+      {
+        "name": "Side Plank with Straight Leg",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/101/side-plank-with-straight-leg/"
+      },
+      {
+        "name": "Dirty Dog",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/109/dirty-dog/"
+      },
+      {
+        "name": "Hip Rotations (Push-up Position)",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/110/hip-rotations-push-up-position/"
+      },
+      {
+        "name": "Squat Jumps",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/116/squat-jumps/"
+      },
+      {
+        "name": "Sumo Rotational Squats",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/129/sumo-rotational-squats/"
+      },
+      {
+        "name": "Bodyweight Squat",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/135/bodyweight-squat/"
+      },
+      {
+        "name": "Single Leg Squat",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/136/single-leg-squat/"
+      },
+      {
+        "name": "Standing Lunge Stretch",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/137/standing-lunge-stretch/"
+      },
+      {
+        "name": "Lunge with Elbow Instep",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/140/lunge-with-elbow-instep/"
+      },
+      {
+        "name": "Kneeling Hip-flexor Stretch",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/142/kneeling-hip-flexor-stretch/"
+      },
+      {
+        "name": "Glute Bridge Single Leg Progression",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/145/glute-bridge-single-leg-progression/"
+      },
+      {
+        "name": "Supine Hip Flexor Stretch",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/146/supine-hip-flexor-stretch/"
+      },
+      {
+        "name": "Supine 90-90 Hip Rotator Stretch",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/148/supine-90-90-hip-rotator-stretch/"
+      },
+      {
+        "name": "Jump and Reach",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/176/jump-and-reach/"
+      },
+      {
+        "name": "Forward Linear Jumps",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/177/forward-linear-jumps/"
+      },
+      {
+        "name": "Tuck Jump",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/180/tuck-jump/"
+      },
+      {
+        "name": "Thomas Stretch",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/192/thomas-stretch/"
+      },
+      {
+        "name": "Kneeling TA Stretch",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/195/kneeling-ta-stretch/"
+      },
+      {
+        "name": "Standing Gate Openers (Frankensteins)",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/201/standing-gate-openers-frankensteins/"
+      },
+      {
+        "name": "Lateral Over Unders",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/206/lateral-over-unders/"
+      },
+      {
+        "name": "Squat Jump",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/222/squat-jump/"
+      },
+      {
+        "name": "Standing Triangle Straddle Bends",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/225/standing-triangle-straddle-bends/"
+      },
+      {
+        "name": "Childs Pose",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/227/childs-pose/"
+      },
+      {
+        "name": "Warrior I",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/228/warrior-i/"
+      },
+      {
+        "name": "Leg Crossover Stretch",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/231/leg-crossover-stretch/"
+      },
+      {
+        "name": "Cycled Split-Squat Jump",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/234/cycled-split-squat-jump/"
+      },
+      {
+        "name": "Plank with Knee Drag",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/257/plank-with-knee-drag/"
+      },
+      {
+        "name": "Partner Assisted Bodyweight Squats",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/265/partner-assisted-bodyweight-squats/"
+      },
+      {
+        "name": "Quadruped Bent-knee Hip Extensions",
+        "type": "Butt/Hips",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/270/quadruped-bent-knee-hip-extensions/"
+      },
+      {
+        "name": "Bent Knee Push-up",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/13/bent-knee-push-up/"
+      },
+      {
+        "name": "Cat-Cow",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/15/cat-cow/"
+      },
+      {
+        "name": "Push-up",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/41/push-up/"
+      },
+      {
+        "name": "Supine Snow Angel (Wipers) Exercise",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/124/supine-snow-angel-wipers-exercise/"
+      },
+      {
+        "name": "Standing Chest Stretch",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/209/standing-chest-stretch/"
+      },
+      {
+        "name": "Supine Spinal Twist with Rib Grab and Progressions",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/229/supine-spinal-twist-with-rib-grab-and-progressions/"
+      },
+      {
+        "name": "CKC Parascapular Exercises",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/259/ckc-parascapular-exercises/"
+      },
+      {
+        "name": "Plank-ups",
+        "type": "Chest",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/320/plank-ups/"
+      },
+      {
+        "name": "Supermans",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/9/supermans/"
+      },
+      {
+        "name": "Bent Knee Push-up",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/13/bent-knee-push-up/"
+      },
+      {
+        "name": "Push-up",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/41/push-up/"
+      },
+      {
+        "name": "Contralateral Limb Raises",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/53/contralateral-limb-raises/"
+      },
+      {
+        "name": "Supine Rotator Cuff",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/122/supine-rotator-cuff/"
+      },
+      {
+        "name": "Supine Shoulder Flexion",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/123/supine-shoulder-flexion/"
+      },
+      {
+        "name": "Supine Snow Angel (Wipers) Exercise",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/124/supine-snow-angel-wipers-exercise/"
+      },
+      {
+        "name": "Shoulder Packing",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/205/shoulder-packing/"
+      },
+      {
+        "name": "Supine Spinal Twist with Rib Grab and Progressions",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/229/supine-spinal-twist-with-rib-grab-and-progressions/"
+      },
+      {
+        "name": "Shoulder Stability-Mobility Series - I, Y, T, W Formations",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/237/shoulder-stability-mobility-series-i-y-t-w-formations/"
+      },
+      {
+        "name": "Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/249/prone-scapular-shoulder-stabilization-series-i-y-t-w-o-formation/"
+      },
+      {
+        "name": "CKC Parascapular Exercises",
+        "type": "Shoulders",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/259/ckc-parascapular-exercises/"
+      },
+      {
+        "name": "Downward-facing Dog",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/18/downward-facing-dog/"
+      },
+      {
+        "name": "Side Lying Hip Adduction",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/39/side-lying-hip-adduction/"
+      },
+      {
+        "name": "Side Lunge",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/50/side-lunge/"
+      },
+      {
+        "name": "Forward Lunge",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/94/forward-lunge/"
+      },
+      {
+        "name": "Hip Rotations (Push-up Position)",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/110/hip-rotations-push-up-position/"
+      },
+      {
+        "name": "Squat Jumps",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/116/squat-jumps/"
+      },
+      {
+        "name": "Sumo Rotational Squats",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/129/sumo-rotational-squats/"
+      },
+      {
+        "name": "Bodyweight Squat",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/135/bodyweight-squat/"
+      },
+      {
+        "name": "Single Leg Squat",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/136/single-leg-squat/"
+      },
+      {
+        "name": "Standing Lunge Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/137/standing-lunge-stretch/"
+      },
+      {
+        "name": "Lunge with Elbow Instep",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/140/lunge-with-elbow-instep/"
+      },
+      {
+        "name": "Kneeling Hip-flexor Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/142/kneeling-hip-flexor-stretch/"
+      },
+      {
+        "name": "Glute Bridge Single Leg Progression",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/145/glute-bridge-single-leg-progression/"
+      },
+      {
+        "name": "Supine Hip Flexor Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/146/supine-hip-flexor-stretch/"
+      },
+      {
+        "name": "Supine 90-90 Hip Rotator Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/148/supine-90-90-hip-rotator-stretch/"
+      },
+      {
+        "name": "Side Lying Quadriceps Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/149/side-lying-quadriceps-stretch/"
+      },
+      {
+        "name": "Jump and Reach",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/176/jump-and-reach/"
+      },
+      {
+        "name": "Forward Linear Jumps",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/177/forward-linear-jumps/"
+      },
+      {
+        "name": "Thomas Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/192/thomas-stretch/"
+      },
+      {
+        "name": "Kneeling TA Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/195/kneeling-ta-stretch/"
+      },
+      {
+        "name": "Standing Gate Openers (Frankensteins)",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/201/standing-gate-openers-frankensteins/"
+      },
+      {
+        "name": "Lateral Over Unders",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/206/lateral-over-unders/"
+      },
+      {
+        "name": "Seated Straddle Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/210/seated-straddle-stretch/"
+      },
+      {
+        "name": "Seated Side-Straddle Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/212/seated-side-straddle-stretch/"
+      },
+      {
+        "name": "Seated Toe Touches",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/213/seated-toe-touches/"
+      },
+      {
+        "name": "Seated Straddle with Side Reaches",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/215/seated-straddle-with-side-reaches/"
+      },
+      {
+        "name": "Seated Butterfly Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/216/seated-butterfly-stretch/"
+      },
+      {
+        "name": "Squat Jump",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/222/squat-jump/"
+      },
+      {
+        "name": "Standing Triangle Straddle Bends",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/225/standing-triangle-straddle-bends/"
+      },
+      {
+        "name": "Childs Pose",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/227/childs-pose/"
+      },
+      {
+        "name": "Warrior I",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/228/warrior-i/"
+      },
+      {
+        "name": "Leg Crossover Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/231/leg-crossover-stretch/"
+      },
+      {
+        "name": "Supine IT Band Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/232/supine-it-band-stretch/"
+      },
+      {
+        "name": "Cycled Split-Squat Jump",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/234/cycled-split-squat-jump/"
+      },
+      {
+        "name": "Supine Hamstrings Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/235/supine-hamstrings-stretch/"
+      },
+      {
+        "name": "Plank with Knee Drag",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/257/plank-with-knee-drag/"
+      },
+      {
+        "name": "Partner Assisted Bodyweight Squats",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/265/partner-assisted-bodyweight-squats/"
+      },
+      {
+        "name": "Modified Hurdler's Stretch",
+        "type": "Legs - Tighs",
+        "link": "https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/273/modified-hurdler-s-stretch/"
+      }
+    ]
+  }

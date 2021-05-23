@@ -1,0 +1,41 @@
+import datetime
+from selenium import webdriver
+import json
+
+# Quotes are scraped on 5/8/2021
+chrome_driver_path = 'C:\Program Files (x86)\Google\Chrome\Application\chromedriver2.exe'
+custom_options = webdriver.ChromeOptions()
+
+# Pass the argument 1 to allow and 2 to block
+custom_options.add_experimental_option("prefs", {
+    "profile.default_content_setting_values.notifications": 2
+})
+# custom_options.add_experimental_option("prefs", prefs)
+driver = webdriver.Chrome(chrome_driver_path, options=custom_options)
+driver.implicitly_wait(5)
+driver.maximize_window()
+
+exercisedb = {}
+exercisedb['exercise_list'] = []
+exercisedb['last_scrape'] = str(datetime.date.today())
+
+main_link = 'https://www.acefitness.org/education-and-resources/lifestyle/exercise-library/equipment/no-equipment/'
+driver.get(main_link)
+while True:
+    Type = input("Whats the Exercise Type: ")
+    if "stop" in Type:
+        break
+
+    exercisecon = driver.find_elements_by_class_name('exercise-card-grid__cell')
+    for exercise in exercisecon:
+        print(exercise.find_element_by_tag_name('a').get_attribute('href'))
+        temp = {
+            "name": exercise.find_element_by_class_name('exercise-card__title').text,
+            "type": Type,
+            "link": exercise.find_element_by_tag_name('a').get_attribute('href')
+        }
+        exercisedb['exercise_list'].append(temp)
+
+with open('tempexercise.json', 'a') as outfile:
+    json.dump(exercisedb, outfile)
+driver.close()
