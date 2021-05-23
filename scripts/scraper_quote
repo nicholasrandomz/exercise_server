@@ -1,0 +1,43 @@
+import datetime
+import json
+from selenium import webdriver
+
+# Quotes are scraped on 5/8/2021
+chrome_driver_path = 'C:\Program Files (x86)\Google\Chrome\Application\chromedriver2.exe'
+custom_options = webdriver.ChromeOptions()
+
+# Pass the argument 1 to allow and 2 to block
+custom_options.add_experimental_option("prefs", {
+    "profile.default_content_setting_values.notifications": 2
+})
+# custom_options.add_experimental_option("prefs", prefs)
+driver = webdriver.Chrome(chrome_driver_path, options=custom_options)
+driver.implicitly_wait(5)
+driver.maximize_window()
+
+
+quotedb = {}
+quotedb['last_scrape'] = str(datetime.date.today())
+quotedb['quote_list'] = []
+main_link = 'https://www.brainyquote.com/topics/motivational-quotes'
+for i in range(1,6):
+    link = main_link + "_" + str(i)
+    driver.get(link)
+
+    for x in range(1, 100):
+        try:
+            id_text = 'qpos_'+str(i)+'_'+str(x)
+            quotecon = driver.find_element_by_id(id_text).find_elements_by_tag_name('a')
+            temp = {
+                "quote": quotecon[0].text,
+                "author": quotecon[1].text
+            }
+            quotedb['quote_list'].append(temp)
+        except Exception as E:
+            print(E)
+            break
+
+with open('tempquote.json', 'a') as outfile:
+    json.dump(quotedb, outfile)
+
+driver.close()
